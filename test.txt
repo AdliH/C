@@ -1,0 +1,13 @@
+PROGRAMME LLL
+{
+    INTEGER A[10];
+    REAL B;
+    
+    A[1]:=10;
+WHILE (A==0)
+{
+    A:=10.2;
+}
+
+TS
+}
